@@ -97,7 +97,7 @@ Data flow (summary)
 Known issues and TODOs
 ----------------------
 - Material icons: some Compose icon usage may require adding `material-icons-extended` to Gradle. Replace text chevrons with vector icons for nicer visuals.
-- Fonts: no custom Rapsodo font currently bundled — add TTFs or choose a Google Font and update `Theme.kt` to match the visual identity.
+- Fonts: no custom font currently bundled — add TTFs or choose a Google Font and update `Theme.kt` to match the visual identity.
 - Charts: current visuals are simple Canvas bars. Consider integrating a charting library for axes, labels and better legibility.
 - Tests: add unit tests for repository and ViewModel flows (Turbine + JUnit) and UI tests for Compose screens.
 
@@ -109,13 +109,6 @@ Contributing
 
 License
 -------
-Add a `LICENSE` file if you plan to publish this repo with a specific license (MIT, Apache-2.0, etc.).
-
-Contact / Next steps
---------------------
-If you'd like, I can:
-- Initialize a `.gitignore` (Android/IntelliJ specific), create an initial git commit and push to GitHub for you.
-- Add material icons dependency and swap the chevrons for `Icon`/`IconButton`.
-- Integrate a Compose chart library to replace the Canvas placeholders.
+No license needed
 
 Generated on 2026-06-13.
