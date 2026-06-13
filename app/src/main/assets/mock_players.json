@@ -1,0 +1,106 @@
+
+[
+  {
+    "id": "player1",
+    "name": "Alice Parker",
+    "club": "Driver",
+    "imageUrl": "https://picsum.photos/seed/alice/200/200",
+    "shots": [
+      { "id": "s1", "ballSpeed": 145.2, "launchAngle": 12.5, "carryDistance": 260.3, "spinRate": 2300.0, "club": "Driver" },
+      { "id": "s2", "ballSpeed": 142.7, "launchAngle": 11.8, "carryDistance": 252.9, "spinRate": 2250.0, "club": "Driver" }
+    ]
+  },
+  {
+    "id": "player2",
+    "name": "Ben Carter",
+    "club": "3 Wood",
+    "imageUrl": "https://picsum.photos/seed/ben/200/200",
+    "shots": [
+      { "id": "s3", "ballSpeed": 140.1, "launchAngle": 13.0, "carryDistance": 240.0, "spinRate": 3100.0, "club": "3 Wood" },
+      { "id": "s4", "ballSpeed": 138.6, "launchAngle": 12.4, "carryDistance": 235.5, "spinRate": 3050.0, "club": "3 Wood" }
+    ]
+  },
+  {
+    "id": "player3",
+    "name": "Carmen Diaz",
+    "club": "5 Wood",
+    "imageUrl": "https://picsum.photos/seed/carmen/200/200",
+    "shots": [
+      { "id": "s5", "ballSpeed": 132.8, "launchAngle": 14.0, "carryDistance": 220.3, "spinRate": 3400.0, "club": "5 Wood" },
+      { "id": "s6", "ballSpeed": 130.4, "launchAngle": 13.6, "carryDistance": 215.0, "spinRate": 3350.0, "club": "5 Wood" }
+    ]
+  },
+  {
+    "id": "player4",
+    "name": "Derek Nguyen",
+    "club": "3 Hybrid",
+    "imageUrl": "https://picsum.photos/seed/derek/200/200",
+    "shots": [
+      { "id": "s7", "ballSpeed": 125.0, "launchAngle": 16.5, "carryDistance": 200.0, "spinRate": 4200.0, "club": "3 Hybrid" },
+      { "id": "s8", "ballSpeed": 123.7, "launchAngle": 16.0, "carryDistance": 195.8, "spinRate": 4150.0, "club": "3 Hybrid" }
+    ]
+  },
+  {
+    "id": "player5",
+    "name": "Evelyn King",
+    "club": "5 Hybrid",
+    "imageUrl": "https://picsum.photos/seed/evelyn/200/200",
+    "shots": [
+      { "id": "s9", "ballSpeed": 120.3, "launchAngle": 17.8, "carryDistance": 185.2, "spinRate": 4600.0, "club": "5 Hybrid" },
+      { "id": "s10", "ballSpeed": 118.9, "launchAngle": 17.1, "carryDistance": 180.6, "spinRate": 4550.0, "club": "5 Hybrid" }
+    ]
+  },
+  {
+    "id": "player6",
+    "name": "Frank Liu",
+    "club": "3 Iron",
+    "imageUrl": "https://picsum.photos/seed/frank/200/200",
+    "shots": [
+      { "id": "s11", "ballSpeed": 112.5, "launchAngle": 19.0, "carryDistance": 165.0, "spinRate": 5100.0, "club": "3 Iron" },
+      { "id": "s12", "ballSpeed": 110.8, "launchAngle": 18.6, "carryDistance": 160.9, "spinRate": 5050.0, "club": "3 Iron" }
+    ]
+  },
+  {
+    "id": "player7",
+    "name": "Gina Morales",
+    "club": "5 Iron",
+    "imageUrl": "https://picsum.photos/seed/gina/200/200",
+    "shots": [
+      { "id": "s13", "ballSpeed": 102.2, "launchAngle": 20.5, "carryDistance": 145.3, "spinRate": 5700.0, "club": "5 Iron" },
+      { "id": "s14", "ballSpeed": 100.9, "launchAngle": 20.0, "carryDistance": 140.8, "spinRate": 5650.0, "club": "5 Iron" }
+    ]
+  },
+  {
+    "id": "player8",
+    "name": "Haru Tanaka",
+    "club": "7 Iron",
+    "imageUrl": "https://picsum.photos/seed/haru/200/200",
+    "shots": [
+      { "id": "s15", "ballSpeed": 95.6, "launchAngle": 22.0, "carryDistance": 130.4, "spinRate": 6200.0, "club": "7 Iron" },
+      { "id": "s16", "ballSpeed": 97.1, "launchAngle": 21.5, "carryDistance": 135.2, "spinRate": 6150.0, "club": "7 Iron" }
+    ]
+  },
+  {
+    "id": "player9",
+    "name": "Iris Patel",
+    "club": "Pitching Wedge",
+    "imageUrl": "https://picsum.photos/seed/iris/200/200",
+    "shots": [
+      { "id": "s17", "ballSpeed": 86.3, "launchAngle": 24.5, "carryDistance": 110.0, "spinRate": 7200.0, "club": "Pitching Wedge" },
+      { "id": "s18", "ballSpeed": 88.0, "launchAngle": 23.8, "carryDistance": 112.5, "spinRate": 7150.0, "club": "Pitching Wedge" }
+    ]
+  },
+  {
+    "id": "player10",
+    "name": "Jonas Schmidt",
+    "club": "Sand Wedge",
+    "imageUrl": "https://picsum.photos/seed/jonas/200/200",
+    "shots": [
+      { "id": "s19", "ballSpeed": 70.5, "launchAngle": 28.0, "carryDistance": 85.0, "spinRate": 8200.0, "club": "Sand Wedge" },
+      { "id": "s20", "ballSpeed": 68.9, "launchAngle": 27.2, "carryDistance": 80.3, "spinRate": 8150.0, "club": "Sand Wedge" }
+    ]
+  }
+]
+
+
+
