@@ -6,7 +6,6 @@ A sample Android app (Jetpack Compose) that demonstrates an offline-first golf p
 This repository is intended as a working sample for prototyping UI/UX and data flow using modern Android libraries and patterns (Room, Retrofit/Moshi, Kotlin Coroutines/Flow, Jetpack Compose).
 
 ## Demo Video
--------------
 
 🎥 [Watch Demo Video](https://github.com/user-attachments/assets/bcd75ca0-89b5-4841-baa5-d3f5ac7053b1)
 
